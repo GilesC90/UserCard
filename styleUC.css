@@ -1,0 +1,66 @@
+.container{
+        width: 1000px;
+        display: flex;
+        align-content: center;
+
+}
+.usercard{
+        margin-top: 200px;
+        margin-left: 50px;
+        width: inherit;
+        padding: 0px;
+        border-style: solid;
+        border-color: lightgray;
+        display: inline-block;
+        
+}
+@font-face {
+    font-family: 'Arimo';
+    src: url(https://fonts.googleapis.com/css2?family=Arimo&display=swap);
+}
+.contents{
+    margin-left: 50px;
+    font-family: 'Arimo';
+}
+
+.color2{
+    height: 100px;
+    background-color: darkcyan;
+
+}
+.propic img{
+    height: 100px;
+    margin-top: -50px;
+
+}
+h1{
+    margin-left: 10px;
+    margin-top: 0px;
+    font-weight: bold;
+    
+}
+.secondarypic, img {
+    height: 25px;
+    display: inline-block;
+    margin-left: 5px;
+    margin-top: -10px;
+}
+
+.location{
+    display: inline-block;
+    margin-left: 5px;
+    margin-top: -10px;
+}
+.row1, .row2{
+    margin-top: -10px;
+    margin-left: 10px;
+}
+
+a{
+    margin-left: 10px;
+    
+}
+.tertiarypic{
+    margin-bottom: 10px;
+    padding-top: 5px;
+}
